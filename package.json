@@ -12,7 +12,7 @@
     "react-dom": "^16.9.0",
     "react-owl-carousel": "^2.3.1",
     "react-owl-carousel2": "^0.3.0",
-    "react-scripts": "3.1.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
